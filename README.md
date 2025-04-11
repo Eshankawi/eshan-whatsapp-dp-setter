@@ -29,3 +29,5 @@ This is a web application that allows users to upload and set a full-size WhatsA
 ## License
 
 MIT
+git clone https://github.com/Eshankawi/whatsapp-dp-setter.git
+cd whatsapp-dp-setter
